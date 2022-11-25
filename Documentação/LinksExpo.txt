@@ -1,0 +1,7 @@
+Link IOS:
+
+exp://u.expo.dev/update/24b8eb1d-0dc6-442a-804c-b2bae7fea442
+
+Link Android:
+
+exp://u.expo.dev/update/598428f4-30af-4562-9420-3c60155d25bf
