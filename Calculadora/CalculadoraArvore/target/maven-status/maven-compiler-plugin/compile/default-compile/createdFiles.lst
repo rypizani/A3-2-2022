@@ -1,0 +1,14 @@
+marcelo/expr/parser/ExpressoesListener.class
+marcelo/expr/parser/ExpressoesVisitor.class
+marcelo/expr/parser/ExpressoesBaseListener.class
+marcelo/expr/parser/ExpressoesParser$ExpressaoContext.class
+marcelo/expr/parser/ExpressoesParser$Op1Context.class
+marcelo/expr/parser/ExpressoesBaseVisitor.class
+marcelo/expr/parser/ExpressoesLexer.class
+marcelo/expr/parser/ExpressoesParser$Op2Context.class
+marcelo/expr/parser/ExpressoesParser$ProgramaContext.class
+marcelo/expr/parser/ExprParser.class
+marcelo/expr/parser/ExpressoesParser$FatorContext.class
+marcelo/expr/parser/ExpressoesParser.class
+marcelo/expr/parser/ExpressoesParser$TermoContext.class
+marcelo/expr/parser/Calculador.class
